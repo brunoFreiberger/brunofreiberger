@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**brunoFreiberger/brunofreiberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Your Name]
 
-Here are some ideas to get you started:
+### Senior Software Engineer | Backend & Full-Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Engineer with 10+ years of experience
+designing, building, and maintaining enterprise
+applications and scalable backend systems.
+
+I enjoy solving complex engineering problems,
+designing reliable architectures, and turning
+ideas into production-ready software.
+
+## Tech Stack
+
+**Backend:** Java, Spring Boot, Node.js, NestJS
+
+**Frontend:** TypeScript, Angular, React, Next.js
+
+**Databases:** PostgreSQL, Oracle, MongoDB, Redis
+
+**Engineering:** REST APIs, Microservices,
+Messaging, Docker, CI/CD, Automated Testing
+
+## Featured Projects
+
+Explore my pinned repositories below for
+examples of software architecture, backend
+development, and full-stack applications.
+
+## Areas of Interest
+
+- Software Architecture & System Design
+- Distributed Systems
+- Backend Engineering
+- Performance & Reliability
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/bruno-henrique-freiberger-777090109/) ·
+[Portfolio](https://www.brunohf.dev/en)
